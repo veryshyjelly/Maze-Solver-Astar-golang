@@ -1,4 +1,4 @@
-## Maze Solver using A* algorithm in golang
+## Golang maze Solver using A* algorithm
 
 ### A* search algorithm
 
